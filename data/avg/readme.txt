@@ -1,0 +1,1 @@
+GOES data goes to this folder
