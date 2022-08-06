@@ -10,4 +10,6 @@ instructions:
 	3.3 Tab 23 : Uncomment the preferred data split.
 	3.4 Tab 47 : Alternate between 1 and 0 for training.
 	3.5 Tabs 54,55,56 : Loading models weight and evaluate the performance (tab 56 alternate between 1 and 0 for saving the evaluation data).
-4. For pre-trained model download the zip from : https://drive.google.com/file/d/1AvpZ8wmVymDaOgFIohOvho4LdaG42_A_/view?usp=sharing and extract it's content into source/keras_models.
+4. For pre-trained model download the zip from : https://drive.google.com/file/d/1AvpZ8wmVymDaOgFIohOvho4LdaG42_A_/view?usp=sharing and extract it's content into source/keras_models
+
+Check more details here : [www.vladlanda.com](https://www.vladlanda.com/low-dimensional-convolutional-neural-network-for-solar-flares-goes-time-series-classification)
